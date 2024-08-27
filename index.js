@@ -15,5 +15,4 @@ app.get('/veiculos',(req,res)=>{
     res.json(veiculos);
 });
 
-
-app.listen(300, 'localhost');
+app.listen(3030, 'localhost' );
